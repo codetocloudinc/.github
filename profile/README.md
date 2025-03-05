@@ -1,3 +1,9 @@
+<!-- Centered image at the top of the README -->
+<p align="center">
+ <img src="https://github.com/codetocloudinc/artwork/blob/main/examples/images/code_to_cloud_1920_x_1080_desktop.png?raw=true" alt="Code To Cloud Logo" width="80%" height="90%" />
+</p>
+
+
 # 🚀 Welcome to **Code to Cloud**!  
 
 🔹 **Empowering Engineers & Businesses in Cloud-Native Technologies**  
