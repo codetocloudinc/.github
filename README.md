@@ -17,6 +17,23 @@ Code to Cloud is a community-driven hub where engineers, developers, and tech le
 
 ---
 
+## 😂 For the Techies with a Sense of Humor  
+
+💻 **Debugging is like being the detective in a crime movie where you are also the murderer.**  
+☁️ **Cloud computing: because sometimes, you just need someone else's computer to solve your problems.**  
+🚀 **Remember, there’s no 'cloud'; it’s just someone else’s Kubernetes cluster.**  
+
+Join us, and let’s laugh through the bugs, the builds, and the deployments together!  
+
+---
+
+## 🎨 Artwork & Branding  
+
+Looking for **logos** or **desktop wallpapers** to show off your love for Code to Cloud?  
+Check out our **[Artwork Repository](https://github.com/codetocloudinc/artwork)** for all the goodies!  
+
+---
+
 ## 📌 Get Involved!  
 
 📢 **Follow Us on our social media :** [Socials Page](https://connect.codetocloud.io)  
@@ -25,4 +42,4 @@ Code to Cloud is a community-driven hub where engineers, developers, and tech le
 
 ---
 
-Let’s build the future of cloud together! ☁️💙  
+Let’s build the future of cloud together! ☁️💙
