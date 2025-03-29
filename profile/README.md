@@ -20,6 +20,7 @@ Code to Cloud is a community-driven hub where engineers, developers, and tech le
 ## 🌟 Showcasing Our Projects  
 
 🔧 **[Platform Engineering Hub](https://github.com/codetocloudinc/platform-engineering)** – A centralized resource for building scalable, secure, and efficient platforms.  
+📘 **[How to Become a Cloud Solutions Architect - O'Reilly Capstone Project](https://github.com/codetocloudinc/csa_project)** – A comprehensive guide and project to master cloud architecture.  
 
 Explore these projects and more as we continue to innovate and empower the cloud-native community!  
 
