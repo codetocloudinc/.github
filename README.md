@@ -17,6 +17,14 @@ Code to Cloud is a community-driven hub where engineers, developers, and tech le
 
 ---
 
+## 🌟 Showcasing Our Projects  
+
+🔧 **[Platform Engineering Hub](https://github.com/codetocloudinc/platform-engineering)** – A centralized resource for building scalable, secure, and efficient platforms.  
+
+Explore these projects and more as we continue to innovate and empower the cloud-native community!  
+
+---
+
 ## 😂 For the Techies with a Sense of Humor  
 
 💻 **Debugging is like being the detective in a crime movie where you are also the murderer.**  
